@@ -1,0 +1,19 @@
+{
+  "@@locale": "bn",
+  "@counterAppBarTitle": {
+    "description": "Texto mostrado en la AppBar de la página del contador"
+  },
+  "counterAppBarTitle": "Contador",
+  "create_account": "Create Account",
+  "dont_have_an_account": "Don,t have an account?",
+  "email": "Email",
+  "forget_password": "Forget Password",
+  "having_trouble_logged_in": "Having trouble logging in?",
+  "log_in_to_your_Account": "Log in to your Account",
+  "login": "লগইন",
+  "not_registered": "নিবন্ধিত নন? নিবন্ধন করুন",
+  "password": "পাসওয়ার্ড",
+  "phoneNumber": "ফোন নাম্বার",
+  "remember_me": "Remember me?",
+  "sign_up": "নিবন্ধন করুন"
+}
