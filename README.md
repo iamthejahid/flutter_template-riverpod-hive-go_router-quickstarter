@@ -2,9 +2,9 @@
 # Flutter-template-riverpod-go_router-hive
 
   
-## Description 🚀
+## Description 📜
 
-Getting Started 🚀 This project follows a specific structure and template for Flutter app creation. It's based on a template that originally utilized a robust CLI, following a block architecture. However, I adapted it to use Riverpod, making significant modifications to align it with Riverpod's principles. Additionally, the template includes numerous predefined widgets, which I customize based on project requirements. I adhere to Andrea's  ["Feature-first"](https://codewithandrea.com/articles/flutter-project-structure/)  approach, with my own modifications. I don't rely on Riverpod code generation and instead heavily utilize StateNotifier over other notifiers. So, happy coding to me! 
+This project follows a specific structure and template for Flutter app creation. It's based on a template that originally utilized a robust CLI, following a block architecture. However, I adapted it to use Riverpod, making significant modifications to align it with Riverpod's principles. Additionally, the template includes numerous predefined widgets, which I customize based on project requirements. I adhere to Andrea's  ["Feature-first"](https://codewithandrea.com/articles/flutter-project-structure/)  approach, with my own modifications. I don't rely on Riverpod code generation and instead heavily utilize StateNotifier over other notifiers. So, happy coding to me! 
 
 ## Folder Structure 📁
 
